@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP_NETCore5Udemy", "ASP_NETCore5Udemy\ASP_NETCore5Udemy.csproj", "{6FC4E5C4-6B30-4583-9FA2-E002650E3376}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP_NETCore5Udemy", "ASP_NETCore5Udemy\ASP_NETCore5Udemy.csproj", "{6FC4E5C4-6B30-4583-9FA2-E002650E3376}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\Calculadora.csproj", "{AB530CC1-EE8B-4011-B970-03A10733A8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{DF07817D-A2C3-435B-9240-ECF390144D27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6FC4E5C4-6B30-4583-9FA2-E002650E3376}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FC4E5C4-6B30-4583-9FA2-E002650E3376}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FC4E5C4-6B30-4583-9FA2-E002650E3376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB530CC1-EE8B-4011-B970-03A10733A8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB530CC1-EE8B-4011-B970-03A10733A8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB530CC1-EE8B-4011-B970-03A10733A8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB530CC1-EE8B-4011-B970-03A10733A8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF07817D-A2C3-435B-9240-ECF390144D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF07817D-A2C3-435B-9240-ECF390144D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF07817D-A2C3-435B-9240-ECF390144D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF07817D-A2C3-435B-9240-ECF390144D27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
